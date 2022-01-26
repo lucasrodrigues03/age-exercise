@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient(45deg, #fff, rgb(18, 102, 128));
+    font: normal 20pt Arial;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+section{
+    font: normal 15pt Arial;
+    background: rgb(235, 238, 250);
+    border-radius: 50px;
+    padding: 50px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #000000;
+    text-align: center;
+    
+}
+input{
+    cursor: pointer;
+    
+}
+
+footer{
+    color: #fff ;
+    text-align: center;
+    font-style: italic;
+   
+    
+}
+img#foto{
+    padding: 50px;
+    border-radius: 200px;
+
+}
+
+    
